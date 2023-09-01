@@ -1,0 +1,11 @@
+Actual elements of array are :
+a[0]=1234
+a[1]=160
+a[2]=270
+a[3]=567
+a[4]=225
+a[5]=151
+Elements between 150 and 250 are:
+a[1]=160
+a[4]=225
+a[5]=151

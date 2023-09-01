@@ -1,0 +1,20 @@
+package mypack1;
+public class SinglePerson
+{
+	String name;
+	String age;
+	int weight;
+	String height;
+	public void setData(String name,String age, int weight, String height)
+	{
+		this.name  = name;
+		this.age = age;
+		this.weight = weight;
+		this.height = height;
+	}
+	public void getPerson()
+	{
+		System.out.println("Name :"+name+"\nAge :"+age+"\nWeight(in kgs) :"+weight+"\nHeight :"+height);
+	}
+	
+}

@@ -1,0 +1,30 @@
+Name: Student1
+Hindi: 90
+English: 85
+Maths: 95
+Chemistry: 88
+
+Name: Student2
+Hindi: 78
+English: 92
+Maths: 89
+Chemistry: 75
+
+Name: Student3
+Hindi: 85
+English: 88
+Maths: 70
+Chemistry: 92
+
+Name: Student4
+Hindi: 92
+English: 78
+Maths: 85
+Chemistry: 80
+
+Name: Student5
+Hindi: 70
+English: 82
+Maths: 95
+Chemistry: 88
+

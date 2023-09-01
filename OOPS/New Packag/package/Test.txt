@@ -1,0 +1,11 @@
+import mypack1.SingleDog;
+class Test extends SingleDog
+{
+	public static void main(String args [])
+	{
+		Dog ob = new Dog();
+		ob.setData("black", "10", 35, 60, "Husky");
+		ob.getDog();
+		ob.getAnimal();
+	}
+}
